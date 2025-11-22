@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-My project (26)-0.1.0";
 const contentToCache = [
     "Build/table99.loader.js",
-    "Build/table99.framework.js.br",
-    "Build/table99.data.br",
-    "Build/table99.wasm.br",
+    "Build/table99.framework.js",
+    "Build/table99.data",
+    "Build/table99.wasm",
     "TemplateData/style.css"
 
 ];
