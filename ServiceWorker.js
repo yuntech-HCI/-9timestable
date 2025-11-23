@@ -1,4 +1,4 @@
-const cacheName = "DefaultCompany-My project (26)-0.1.0";
+const cacheName = "DefaultCompany-99timestable-0.1.0";
 const contentToCache = [
     "Build/table99.loader.js",
     "Build/table99.framework.js",
